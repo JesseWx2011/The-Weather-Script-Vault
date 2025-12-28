@@ -58,7 +58,7 @@
 
 
 
-**<img width="300" alt="5/31/2013 Radar Graphic" src="./NEXRAD/KTLX_20130531_232823.png"/>**
+**<img width="300" alt="5/31/2013 Radar Graphic" src="./NEXRAD/KTLX_20130531_233259.png"/>**
 
 
 
@@ -69,6 +69,7 @@
 
 
 **Thank you for checking out this repository, hopefully it can be used for creating weather graphics. Feel free to improve the code if necessary!**
+
 
 
 
