@@ -26,7 +26,7 @@
 
 
 
-**<img alt="Hurricane Dorian Satellite Loop, September 1st, 2019" src="./SATELLITE/Dorian_09_01_2019_full.gif"/>**
+**<img width="300" alt="Hurricane Dorian Satellite Loop, September 1st, 2019" src="./SATELLITE/Dorian_09_01_2019_full.gif"/>**
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-**<img alt="5/31/2013 Radar Graphic" src="./NEXRAD/KTLX\_20130531\_232823.png"/>**
+**<img width="300" alt="5/31/2013 Radar Graphic" src="./NEXRAD/KTLX_20130531_232823.png"/>**
 
 
 
@@ -69,5 +69,6 @@
 
 
 **Thank you for checking out this repository, hopefully it can be used for creating weather graphics. Feel free to improve the code if necessary!**
+
 
 
