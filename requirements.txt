@@ -1,0 +1,13 @@
+goes2go
+datetime
+cartopy
+imageio
+herbie
+numpy
+matplotlib
+requests
+bz2
+pyart
+gzip
+pytz
+warnings
