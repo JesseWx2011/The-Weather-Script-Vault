@@ -472,7 +472,7 @@ ax.text(
 os.unlink(temp_file.name)
 
 # Save with high quality
-output_filename = f"{RADAR_ID}_{filename_date}_{filename_time}_enhanced.png"
+output_filename = f"{RADAR_ID}_{filename_date}_{filename_time}.png"
 plt.savefig(output_filename, dpi=100, facecolor='#1a1a1a', edgecolor='none')
 print(f"Visualization saved as {output_filename}")
 plt.show()
